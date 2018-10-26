@@ -22,3 +22,4 @@
     - Don't cheat. Actually run it one cell at a time.
     - This is what it looks like when we are testing code. We take it apart and test each piece using dummy data where needed. Ideally, you want to test each snippet before you move on. That's a great way to buold large programs without a ton of hard to find bugs. If you test after each line of code then any bugs you find are likely to be on the last few lines you wrote. 
 
+Hi 
